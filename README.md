@@ -4,7 +4,7 @@ Utilizando um banco de dados de Jogos, eu faço analise de diversas coisas como:
 
 Qual ano teve mais lançamentos de jogos?  
 Como as vendas variaram ao longo do tempo?  
-Comparação entre plataformas ao longo dos anos (PlayStation, Xbox, PC, etc.)
+Comparação entre plataformas ao longo dos anos (PlayStation, Xbox, PC, etc.)  
 Qual gênero gerou mais receita total?  
 Qual gênero tem mais jogos lançados?  
 O gênero mais lucrativo mudou ao longo dos anos?  
