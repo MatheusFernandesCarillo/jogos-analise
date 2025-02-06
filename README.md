@@ -2,7 +2,7 @@ Um projeto aonde eu coloco meu aprendizado em pratica.
 
 Utilizando um banco de dados de Jogos, eu faço analise de diversas coisas como:
 
-Qual ano teve mais lançamentos de jogos?
+Qual ano teve mais lançamentos de jogos? \n
 Como as vendas variaram ao longo do tempo? Existe um período de alta nas vendas (exemplo: fim de ano)?
 Comparação entre plataformas ao longo dos anos (PlayStation, Xbox, PC, etc.).
 Qual gênero gerou mais receita total?
