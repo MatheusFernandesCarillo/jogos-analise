@@ -12,6 +12,6 @@ Quais jogos vendem mais na América do Norte, Europa, Japão e no resto do mundo
 Há diferenças de preferência entre regiões (exemplo: RPGs são mais populares no Japão)?  
 Como as vendas variaram ao longo dos anos em cada região?  
 Franquias como "Call of Duty", "FIFA", "Mario" e "Pokémon" se destacam nas vendas?  
-Qual a média de vendas por jogo dentro de cada franquia?
-Franquias antigas ainda são populares?
-Jogos bem avaliados vendem mais?
+Qual a média de vendas por jogo dentro de cada franquia?  
+Franquias antigas ainda são populares?  
+Jogos bem avaliados vendem mais?  
