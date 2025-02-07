@@ -28,4 +28,19 @@ vendas_por_franquia = db_limpo.groupby('Franquia')['Vendas_Global'].sum().reset_
 
 vendas_por_franquia = vendas_por_franquia.sort_values(by='Vendas_Global', ascending=False)
 
-print(vendas_por_franquia)
+
+media_vendas_por_franquia = db_limpo.groupby('Franquia')['Vendas_Global'].mean().reset_index()
+
+# Ordenando as médias de vendas por franquia
+media_vendas_por_franquia = media_vendas_por_franquia.sort_values(by='Vendas_Global', ascending=False)
+
+
+
+print(f'O Total de vendas por franquia é\n{vendas_por_franquia}')
+print(f'A Média de vendas por franquia é\n{media_vendas_por_franquia}')
+
+def teste():
+    print("Esse código não vai rodar automaticamente.")
+
+if __name__ == "__main__":
+    teste()  # Só executa se rodar vendas_franquia.py diretamente
